@@ -1,13 +1,9 @@
 <pre>
 
 🔭 Currently working on new technology projects.
-
 🧠 Learning Skills : HTML, CSS, JavaScript, TypeScript, Kotlin, C and languages.
-
 👩‍🎓 A student of Software Engineering at Ecole 42.
-
 ⚡ Also interested in Mobile Development, Blockchain, AI.
-
 😄 Pronouns she/her
 
 <p align="left">
