@@ -1,17 +1,11 @@
 <pre>
 
-🔭 Currently working on new technology projects.
-🧠 Learning Skills : HTML, CSS, JavaScript, TypeScript, Kotlin, C and languages.
-👩‍🎓 A student of Software Engineering at Ecole 42.
-⚡ Also interested in Mobile Development, Blockchain, AI.
+
+🔭 Currently working on new technology projects
+👩‍🎓 A student of Software Engineering at Ecole 42
 😄 Pronouns she/her
-<p align="left">
-<img height="23em" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white"/><img height="23em" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=tomato"/><img height="23em" src="https://img.shields.io/badge/css-0D1117?style=for-the-badge&logo=css&logoColor=blue"/><img height="23em" src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=white"/><img height="23em" src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=ab3f27"/><img height="23em" src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=#22272e"/><img height="23em" src="https://img.shields.io/badge/Shell_Script-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white"/><img height="23em" src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=white"/><img height="23em" src="https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=tomato"/><img height="23em" src="https://img.shields.io/badge/Javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=white"/>
-<a href="https://t.me/CarlalFranca"rel="nofollow"><img height="23em" src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=white%22/%3E"/> <a href="https://t.me/CarlalFranca"rel="nofollow"><img height="23em" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/><a href="mailto:carlalrfranca@protonmail.com"rel="nofollow"><img height="23em" src="https://img.shields.io/badge/ProtonMail-0D1117?style=for-the-badge&logo=protonmail&logoColor=white"/><a href="https://twitter.com/CarlaLRibFr"><img height="23em" src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=Twitter&logoColor=blue"/>
+🧠 Learning Skills : <img height="15em" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=ab3f27"/><img height="15em" src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=e34c26"/><img height="15em" src="https://img.shields.io/badge/Css-0D1117?style=for-the-badge&logo=css3&logoColor=blue"/><img height="15em" src="https://img.shields.io/badge/Javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=f1df3a"/><img height="15em" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61dfbf"/><img height="15em" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=4e78c4"/><img height="15em" src="https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=f1502f"/><img height="15em" src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=5aa132"/>
+
 <div><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlalrfranca&layout=compact&langs_count=7&border_color=0D1117&bg_color=0D1117&title_color=8f989f&text_color=8f989f&icon_color=b55c5e"/></div>
 </pre>
- <!-- 
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlalrfranca&show_icons=true&border_color=0D1117&bg_color=0D1117&title_color=8f989f&icon_color=b55c5e&text_color=8f989f&include_all_commits=true count_private=true"/>
- <img src="https://img.shields.io/github/watchers/carlalrfranca/carlalrfranca?color=grey&label=views&logoColor=grey&style=social">
--->
-
+ 
