@@ -1,6 +1,4 @@
 <pre>
-
-
 🔭 Currently working on new technology projects
 👩‍🎓 A student of Software Engineering at Ecole 42
 🧠 Learning Skills <img height="15em" src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=ab3f27"/><img height="15em" src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=e34c26"/><img height="15em" src="https://img.shields.io/badge/Css-0D1117?style=for-the-badge&logo=css3&logoColor=blue"/><img height="15em" src="https://img.shields.io/badge/Javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=f1df3a"/><img height="15em" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61dfbf"/><img height="15em" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=4e78c4"/><img height="15em" src="https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=f1502f"/><img height="15em" src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=5aa132"/>
